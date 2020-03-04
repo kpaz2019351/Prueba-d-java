@@ -1,2 +1,1 @@
-# Prueba-d-java
-solo pa experimentar
+system.out.printl(¨hola mundo¨)
